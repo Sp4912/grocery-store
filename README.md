@@ -27,23 +27,30 @@ A full-featured grocery store web application built using **Spring Boot** for th
 
 ## ScreenShot :
 
-Dashboard Page :
+**Dashboard Page :**
+
 ![Screenshot (74)](https://github.com/user-attachments/assets/089aa55f-d136-41ec-a31a-87c9ac7320f7)
 
-Product Page :
+**Product Page :**
+
 ![Screenshot (75)](https://github.com/user-attachments/assets/fe2e1bb3-e6d8-4903-a093-62892400d01b)
+
 ![Screenshot (76)](https://github.com/user-attachments/assets/4d554174-d79d-4211-848e-da4eb568c0c9)
 
-Contact Page :
+**Contact Page :**
+
 ![Screenshot (78)](https://github.com/user-attachments/assets/0bde627a-7d4b-4c1c-b7d2-0f09a07fa5d4)
 
-About Page :
+**About Page :**
+
 ![Screenshot (77)](https://github.com/user-attachments/assets/62a1d9c3-a330-46d7-8de2-1bf661672e88)
 
-Login page :
+**Login page :**
+
 ![Screenshot (79)](https://github.com/user-attachments/assets/9ec6477d-e8d8-4f16-8db7-ac7abf2126ff)
 
-User Product Page :
+**User Product Page :**
+
 ![Screenshot (80)](https://github.com/user-attachments/assets/23a22b49-25a1-486c-9c10-fe352b1f0e51)
 
 
